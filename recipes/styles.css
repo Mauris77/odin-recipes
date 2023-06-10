@@ -1,0 +1,32 @@
+body {
+    font-family: "Garamond", "Georgia", serif;
+}
+h1,
+h2  {
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    background-color: orange;
+    color: white;
+}
+h1 {
+    font-size: 64px;
+}
+h2{
+    font-size: 32px;
+}
+img {
+    height: 600px ;
+    width: auto ;
+    
+}
+p,
+ul,
+ol {
+    font-size: 24px;
+}
+p {
+    font-weight: 700;
+}
+ul {
+    font-style: italic;
+}

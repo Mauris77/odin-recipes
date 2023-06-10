@@ -1,0 +1,14 @@
+body {
+    font-family: "Garamond", "Georgia", serif;
+}
+h1  {
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    font-size: 64px;
+    background-color: orange;
+    color: white;
+}
+ul {
+    font-size: 32px;
+    color: orange;
+}
